@@ -1,7 +1,8 @@
 # Pitch (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
+Infelizmente não houve tempo hábil para fazer o pitch. A solução para rodar localmente não pode ser testada devido a falta de hardware
+para rodar as aplicações.
+A lógica do agente só pode ser testada no ChatGPT e Copilot
  
 ## Roteiro Sugerido
 
